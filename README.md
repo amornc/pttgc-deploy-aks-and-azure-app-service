@@ -1,4 +1,4 @@
-# Source code scanning
+# Source code scanning 
 
 ## PREREQUISITE
 ### Create Repository Secrets
